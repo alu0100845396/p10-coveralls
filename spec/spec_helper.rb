@@ -1,9 +1,9 @@
+require "coveralls"
+Coveralls.wear!
+
 require "bundler/setup"
 require "mygem_prct06"
 require "benchmark"
-
-require "coveralls"
-Coveralls.wear!
 
 include Benchmark
 
