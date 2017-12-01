@@ -1,4 +1,4 @@
-# Práctica 10: Programación funcional. Benchmarks
+# Práctica 10: Programación funcional. Benchmarks. Prueba para Travis y Coveralls.
 *  Universidad de La Laguna
 *  Asignatura: Lenguajes y Paradigmas de Programación
 *  Curso: 2017/18
